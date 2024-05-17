@@ -3,4 +3,4 @@
 |🐍 Python|🔬 Analytics|⚙️ Machine Learning|
 
 
-This repository includes collections of Machine Learning Model and projects done using ML.
+This repository includes collection of Machine Learning Model and projects done using ML.
